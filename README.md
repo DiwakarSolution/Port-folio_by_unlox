@@ -2,14 +2,10 @@
 
 Week 01 Minor Project - Unlox.
 
-Pages: index, about, skills, projects, contact. Edit the placeholder text, then:
 
-```
 git init
 git add .
 git commit -m "Initial portfolio"
 git branch -M main
 git remote add origin <your-repo-url>
 git push -u origin main
-```
-Enable GitHub Pages (Settings > Pages) and submit the repo link in the Google Form.
