@@ -4,8 +4,9 @@ Week 01 Minor Project - Unlox.
 
 
 git init
-git add .
-git commit -m "Initial portfolio"
+git add . 
+git commit -m "minor changes"
 git branch -M main
-git remote add origin <your-repo-url>
+git remote add origin set https://github.com/DiwakarSolution/Port-folio_by_unlox.git
 git push -u origin main
+ 
